@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653963542 source:c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor\main.cpp
+	<iostream>
+	"escultor.h"
+
+1653963904 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor\escultor.h
+	"Voxel.h"
+
+1653955404 c:\users\hp\desktop\arquivos_nelma\2022.1\pa\projeto_p1\escultor\voxel.h
+
